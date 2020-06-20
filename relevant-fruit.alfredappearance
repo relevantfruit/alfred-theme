@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "Nunito Light",
+        "color" : "#C2C3C6FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Nunito",
+        "color" : "#C02F86FF"
+      },
+      "backgroundSelected" : "#C02F86E2",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#F8F8F9FF",
+        "font" : "Nunito SemiBold",
+        "color" : "#F8F8F9E5"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 7,
+      "iconSize" : 19
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#0000001A",
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Nunito SemiBold",
+        "color" : "#F8F8F9FF"
+      },
+      "backgroundSelected" : "#C02F86E4"
+    },
+    "window" : {
+      "color" : "#000000DB",
+      "paddingHorizontal" : 0,
+      "width" : 580,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 12,
+      "paddingVertical" : 0
+    },
+    "credit" : "Yagiz Nizipli",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#6C207FFF",
+      "thickness" : 2
+    },
+    "name" : "Relevant Fruit"
+  }
+}
